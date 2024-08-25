@@ -7,7 +7,7 @@
     "lib"
   ],
   "publishConfig": {
-    "@frmscoe:registry": "https://npm.pkg.github.com/"
+    "@matrixsoftwarelimited:registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frmscoe/rule-901.git"
+    "url": "git+https://github.com/matrixsoftwarelimited/rule-901.git"
   },
   "keywords": [
     "rule-091"
@@ -35,9 +35,9 @@
   "author": "johanfol",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/frmscoe/rule-901/issues"
+    "url": "https://github.com/matrixsoftwarelimited/rule-901/issues"
   },
-  "homepage": "https://github.com/frmscoe/rule-901#readme",
+  "homepage": "https://github.com/matrixsoftwarelimited/rule-901#readme",
   "dependencies": {
     "@frmscoe/frms-coe-lib": "4.0.0",
     "ts-node": "^10.9.2"
